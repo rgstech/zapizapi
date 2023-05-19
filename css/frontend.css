@@ -1,0 +1,23 @@
+
+.icon-contact { /* whatzapp icon */
+
+    position: fixed;
+    right: 25px;
+    bottom: 68px;
+    width: 35px;
+    height: 35px;
+    opacity: 0.8;
+    z-index: 9;
+  
+  }
+  
+  .icon-top { /* top icon */
+  
+    position: fixed;
+    right: 25px;
+    bottom: 10px;
+    width: 35px;
+    height: 35px;
+    z-index: 9;
+  
+  }

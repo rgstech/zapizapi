@@ -3,3 +3,4 @@ Plugin zapizapi para wordpress que adiciona ícone do whatzap para contato no si
 
 
 ![zapizapi img 1](https://github.com/rgstech/zapizapi/blob/master/screenshots/screen01.jpg?raw=true)
+![zapizapi img 2](https://github.com/rgstech/zapizapi/blob/master/screenshots/screen02.jpg?raw=true)

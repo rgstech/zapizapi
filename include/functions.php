@@ -10,8 +10,6 @@ function my_menu_pages()
 {
 
     add_menu_page('Configurar zapizapi', 'ZapiZapi', 'manage_options', 'my-menu', 'sp_panel_page');
-  //add_submenu_page('my-menu', 'Submenu Page Title', 'Whatever You Want', 'manage_options', 'my-menu' );
-  //add_submenu_page('my-menu', 'Submenu Page Title2', 'Whatever You Want2', 'manage_options', 'my-menu2' );
 
 }
 

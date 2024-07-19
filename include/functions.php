@@ -9,7 +9,7 @@ function zapi_load_frontend_styles()
 function zapi_menu_pages()
 {
 
-    add_menu_page('Configurar zapizapi', 'ZapiZapi', 'manage_options', 'my-menu', 'zapi_panel_page');
+    add_menu_page('Configurar zapizapi', 'ZapiZapi', 'manage_options', 'zapi-menu', 'zapi_panel_page');
 
 }
 

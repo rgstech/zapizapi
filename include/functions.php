@@ -13,7 +13,7 @@ function zapi_menu_pages()
 
 }
 
-// function to load admin page
+// função para carregar o frontned do admin / function to load admin page 
 function zapi_panel_page() 
 {
     
